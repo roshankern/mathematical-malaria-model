@@ -14,4 +14,4 @@ The notebook with all Mathematica code for reproducing figures from paper and ex
 
 ## Final Paper
 
-The paper describing the background, approach and extensio is available in pdf form at [mathematica-notebook.pdf](mathematica-notebook.pdf).
+The paper describing the background, approach and extensio is available in pdf form at [final-paper.pdf](final-paper.pdf).
